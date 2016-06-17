@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: TiLiqPay
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2016 by Your Company
+
+# these should not be edited
+name: TiLiqPay
+moduleid: ti.liqpay
+guid: e9b015a9-33c0-477d-9236-2c2c4d67d19d
+platform: mobileweb
+minsdk: 5.4.0.GA
